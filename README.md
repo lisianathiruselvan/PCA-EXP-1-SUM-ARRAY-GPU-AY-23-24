@@ -1,6 +1,6 @@
 #                                                               PCA: EXP-1  SUM ARRAY GPU
-<h3>NAME: Sneha Basyal M </h3>
-<h3>REGISTER NO: 212222240101 </h3>
+<h3>NAME: LISIANA T </h3>
+<h3>REGISTER NO: 212222240053 </h3>
 <h3>EX. NO:1</h3>
 <h3>DATE:</h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
